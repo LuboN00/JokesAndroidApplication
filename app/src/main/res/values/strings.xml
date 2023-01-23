@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jokes</string>
+    <string name="joke">Joke</string>
+    <string name="hint_joke_category">Joke\'s category</string>
+    <string name="hint_joke_text">The joke</string>
+    <string name="hint_joke_delete_btn">Delete joke</string>
+</resources>
